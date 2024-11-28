@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/> <!-- Replace with your actual icon -->
+    <item
+        android:id="@+id/nav_workouts"
+        android:title="Workouts"
+        android:icon="@drawable/ic_workout"/> <!-- Replace with your actual icon -->
+    <item
+        android:id="@+id/nav_progress"
+        android:title="Progress"
+        android:icon="@drawable/ic_progress"/> <!-- Replace with your actual icon -->
+</menu>
